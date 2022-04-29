@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200&display=swap');
+
+*{
+    padding: 20px;
+    border:0;
+    margin: 0;
+
+}
+body{
+    background: linear-gradient(0deg, rgba(78, 36, 120, 0.2), rgba(78, 36, 120, 0.2)), linear-gradient(140.9deg, rgba(255, 255, 255, 0.2) 9.53%, rgba(255, 255, 255, 0) 28.32%), linear-gradient(220.59deg, rgba(32, 165, 207, 0.216) 19.23%, rgba(0, 209, 255, 0) 76.93%), radial-gradient(55.3% 91% at 74.06% 34.28%, #080F11 0%, #4C4C4C 18.9%, #4F4F4F 52.21%, #686868 100%);
+    font-family: 'Raleway', sans-serif;
+    color:white;
+}
+
+tr,td{
+
+    
+    width:"100%";
+ 
+         
+}
+
+.nav{
+    
+    background: transparent;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 5%;
+}
+
+.nav:visited{
+
+    color:white;
+}
+.nav:hover{
+
+    color: #BEB5C6;
+} 
+
+#cabecalho{
+
+    display:inline-block;
+    width: 90%;
+    padding-top: 7%;
+    text-align: right;
+    border-bottom:1px solid white;
+  
+}
+
+
+.tituloprincipal{
+
+    font-size: 60px;
+    text-align: center;
+    padding-top: 90px;
+    color: #B0BADF;
+}
+#parte2{
+    padding-top: 0px;
+    border-left: 1px solid  white;
+}
+
+#tabelalogo{
+    padding-bottom: 0;
+}
+
+#frasetopo{
+
+    text-align: left;
+    font-size: 30px;
+    padding-bottom: 100px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+
+}
+
+
+#cronometro{
+
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+#relogio{
+ 
+
+    font-size: 100px;
+    text-align: center;
+    padding-bottom: 25px;
+
+}
+
+button{
+
+    padding: 7px;
+    width: 90%;
+    margin-left: 5%;
+    background-color : #B0BADF;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+}
+
+.Titulo{
+
+    text-align: center;
+    font-size: 50px;
+    padding: 90px;
+}
+
+
+
+#img1{
+    float: left;
+    padding-left: 280px;
+    width: 300px;
+    height:300px;
+
+}
+#img2{
+
+    width: 700px;
+    height:300px;
+
+}
+#horarios{
+
+font-size: 60px;
+
+}
+
+
+.paragrafo{
+
+    font-size:30px;        
+}
+
+#paragrafo1{
+    padding-top: 100px;
+    font-size:30px;
+}
+
+#paragrafo2{
+    padding-bottom: 200px;
+    font-size:30px;
+}
+
+
+#paragrafo3{
+    padding-top: 200px;
+    font-size:30px;
+}
+
+#frase{
+
+    float: left;
+    width: 100%;
+    margin-left: 50%;
+    margin-right: 50%;
+    background-color: #2B3B53;
+    
+}
+#caixa{
+
+    border-radius: 400px;
+    text-align: right;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-left: 35px;
+    padding-right: 235px;
+    font-size: 45px;
+    color: black;
+    width: 100%;
+    background-color: #A2B6D4;
+}
+
+#img3{
+    float:left;
+    border-radius: 100%;
+    
+}
+#logo2{
+
+    float:right;
+}
