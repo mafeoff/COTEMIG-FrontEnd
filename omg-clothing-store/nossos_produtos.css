@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Marvel&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #1B1919;
+    font-family: 'Marvel', sans-serif;
+}
+
+#menu-h{
+
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px
+
+}
+
+#pesquisa{
+    width: 400px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: #CCB1B1;
+    border-radius: 30px;
+}
+#logo{
+    width: 290px;
+    height: 150px;
+}
+
+
+li{ display: inline;
+    list-style: none;
+    padding: 20px;
+    font-size: 1.3vw;
+}
+a:link{
+
+    text-decoration: none;
+
+}
+a{
+    color: #CCB1B1;
+}
+
+a:hover{
+
+    color: #9C7575;
+}
+
+main{
+
+    display: flex;
+    width: 100%;
+    height: 800px;
+    background-color: #CCB1B1;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    
+}
+
+
+
+.produtos{
+
+    display: flex;
+    width: 300px;
+    height: 700px;
+    background-color: #1B1919;
+    position: relative;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;    
+}
+
+.produtos:hover{
+
+    width: 280px;
+    height: 680px;
+    background-color: rgba(3, 3, 3, 0.753);
+
+}
+
+img{
+
+    width: 280px;
+    height: 680px;
+    opacity: 0.8;
+    border-radius: 15px;
+  
+}
+
+img:hover{
+
+    width: 280px;
+    height: 680px;
+    opacity: 0.6;
+    border-radius: 15px;
+  
+}
+
+h1{
+
+    position: absolute;
+    z-index: 2;
+    color: #CCB1B1;
+    background-color: rgba(0, 0, 0, 0.699)
+
+ 
+}
+#menu-rodape{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 250px;
+    background-color: rgb(36, 5, 5);
+    flex-wrap: wrap;
+    
+    
+}
+
+.rodape{
+
+    width: 300px;
+    height: 150px;
+    background-color: #CCB1B1;
+    border-radius: 30px;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.img-tamanho{
+
+    width: 3vw;
+    height: 3vw;
+
+}
+
+.conteudo{
+    width: 90%;
+    margin: 0 auto;
+}

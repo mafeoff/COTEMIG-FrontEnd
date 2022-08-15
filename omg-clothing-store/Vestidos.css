@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Marvel&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #1B1919;
+    font-family: 'Marvel', sans-serif;
+}
+
+#menu-h{
+
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px
+
+}
+
+#pesquisa{
+    width: 400px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: #CCB1B1;
+    border-radius: 30px;
+}
+#logo{
+    width: 290px;
+    height: 150px;
+}
+
+
+li{ display: inline;
+    list-style: none;
+    padding: 20px;
+    font-size: 1.3vw;
+}
+a:link{
+
+    text-decoration: none;
+
+}
+a{
+    color: #CCB1B1;
+}
+
+a:hover{
+
+    color: #9C7575;
+}
+
+main{
+
+    width: 100%;
+    height: 1100px;
+    background-color: #CCB1B1;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#lateral{
+
+    width: 20%;
+    height: 1100px;
+    background-color: #1B1919;
+}
+
+#menu-produtos{
+
+    width: 80%;
+    height: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.produtos{
+
+    width: 400px;
+    height: 400px;
+    background-color:#1b191986;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu-esgotados{
+
+    width: 100%;
+    height: 500px;
+    border: 2px solid rgb(55, 0, 255);
+}
+
+#menu-rodape{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 250px;
+    background-color: rgb(36, 5, 5);
+    flex-wrap: wrap;
+    
+    
+}
+
+.rodape{
+
+    width: 300px;
+    height: 150px;
+    background-color: #CCB1B1;
+    border-radius: 30px;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.img-tamanho{
+
+    width: 3vw;
+    height: 3vw;
+
+}
+
+.conteudo{
+    width: 90%;
+    margin: 0 auto;
+}
