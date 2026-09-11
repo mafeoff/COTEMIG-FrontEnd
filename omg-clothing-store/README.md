@@ -1,8 +1,18 @@
-# Site "OMG" — Loja de Roupas (fictícia)
+# OMG Clothing Store — Fictional E-Commerce Website
 
-Site de e-commerce fictício de roupas e calçados, com várias páginas: início, vestidos, calçados, "quem somos", contato, nossos produtos, partes de cima/baixo.
+Fictional e-commerce website for clothing and footwear, featuring multiple pages including the home page, dresses, footwear, company information, contact, products, and clothing categories.
 
-**Datas:** imagens entre 10–15/08/2022; páginas HTML/CSS entre 14–15/08/2022 (entre 18h e 20h41).
+**Dates:** Images were created between August 10–15, 2022. The HTML/CSS pages were created between August 14–15, 2022, between 6:00 PM and 8:41 PM.
 
-## Páginas
-`index.html`, `Vestidos.html`, `Calcados.html`, `contato.html`, `nossos_produtos.html`, `partes_cima.html`, `partes_baixo.html`, `Quem_somos.html`, cada uma com seu próprio CSS.
+## Pages
+
+- `index.html` — home page
+- `Vestidos.html` — dresses
+- `Calcados.html` — footwear
+- `contato.html` — contact
+- `nossos_produtos.html` — products
+- `partes_cima.html` — tops
+- `partes_baixo.html` — bottoms
+- `Quem_somos.html` — company information
+
+Each page has its own CSS file.
