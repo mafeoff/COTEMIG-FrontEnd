@@ -1,8 +1,8 @@
-# Exercícios de Máscara de Input
+Input Mask Exercises
 
-Dois exercícios praticamente idênticos de máscara de campo de formulário (usando a biblioteca `mascara.js`), feitos em sequência.
+Two nearly identical exercises for applying input masks to form fields, using the mascara.js library, created sequentially.
 
-**Data:** as pastas foram criadas em 28/11/2022 (22h02–22h03). Os arquivos `index.html`/`mascara.js` internos têm uma data de 2017 porque vêm de um template/biblioteca de terceiros (mascara.js) usado como base — não é a data real do exercício.
+Date: the folders were created on November 28, 2022 (10:02–10:03 PM). The internal index.html/mascara.js files have a 2017 date because they come from a third-party template/library (mascara.js) used as the basis. This is not the actual date of the exercise.
 
-- `att-form/` — versão com `mascara.js`.
-- `att-mascara/` — versão equivalente, incluindo também a versão minificada da biblioteca (`mascara.min.js`).
+att-form/ — version using mascara.js.
+att-mascara/ — equivalent version, also including the minified version of the library (mascara.min.js).
