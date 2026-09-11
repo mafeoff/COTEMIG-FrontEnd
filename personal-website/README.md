@@ -1,10 +1,11 @@
-# Atividade — Site Pessoal
+# Personal Website — HTML / CSS
 
-Site pessoal simples em HTML/CSS puro, com página inicial, "Sobre mim" e "Produtividade".
+Simple personal website built using pure HTML and CSS, featuring a home page, an About Me page, and a Productivity page.
 
-**Datas:** imagens de 08–27/04/2022; páginas HTML/CSS finalizadas em 29/04/2022 (entre 22h50 e 23h51).
+**Dates:** Images were created between April 8–27, 2022. The HTML/CSS pages were finalized on April 29, 2022, between 10:50 PM and 11:51 PM.
 
-## Páginas
-- `index.html` — página inicial
-- `Sobre mim.html` / `Sobremim.css` — página sobre a autora
-- `Produtividade.html` / `produtividade.css` — página sobre produtividade
+## Pages
+
+- `index.html` — home page
+- `Sobre mim.html` / `Sobremim.css` — About Me page
+- `Produtividade.html` / `produtividade.css` — Productivity page
